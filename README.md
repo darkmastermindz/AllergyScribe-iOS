@@ -18,11 +18,17 @@ If you would like to help with early stages of development, please email hello@h
   - [ ] Reminds you of future appointments.
   - [ ] Option to store information in the cloud.
 
-## How did I build it?
+## How Did You Build It?
   - XCode and SwiftLang (iOS)
   - Firebase
   
-## How Do I Contribute?
+## Challenges Faced
+  -
+
+## What Did We All Learn?
+  -
+
+## What's Next? How Do I Contribute?
   - Help contribute for other treatment plans (different treatments vary the way immunatherapy is given). 
   - Help create a helpful network and awareness connect with local businesses that are food allergy friendly.
   - Help fix UX/UI bugs and improve the overall user experience.
