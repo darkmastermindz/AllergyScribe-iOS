@@ -3,8 +3,9 @@
 # AllergyScribe-iOS
 Intuitive Open Source Maintained iOS App to Track Allergies and Allergy Shots built with Firebase &amp; Swift.
 
-This project is still in early development. Pull requests won't be accepted until 1.0.0 is released. 
-If you would like to help with early stages of development, please email hello@hanselwei.dev
+This project is still in early development. Pull requests won't be accepted until 1.0.0 is released, however feedback from TestFlight and Issues will be considered.
+
+If you would like to help contribute with early stages of development, please email hello@hanselwei.dev
 
 ## Inspiration
   Recently I have found that I needed immunotherapy for my allergies (Allergy Shots) and have finished treatment and gotten a lot better. 
