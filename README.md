@@ -37,4 +37,4 @@ If you would like to help with early stages of development, please email hello@h
   - Please create an issue and follow the contributing template for all pull requests.
 
 ## Can I reuse this code in my app?
-  - Yes! Feel free to use this code. However, please include the license and credit this repo in the application you are building.
+  - Yes! Feel free to fork this repo and use this code. However, please include the license and credit this repo in the application you are building.
