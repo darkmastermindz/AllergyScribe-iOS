@@ -20,7 +20,7 @@ If you would like to help with early stages of development, please email hello@h
 
 ## How Did You Build It?
   - XCode and SwiftLang (iOS)
-  - Firebase
+  - FirebaseAuth
   
 ## Challenges Faced
   -
