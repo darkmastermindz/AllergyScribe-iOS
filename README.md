@@ -8,7 +8,7 @@ This project is still in early development. Pull requests won't be accepted unti
 If you would like to help contribute with early stages of development, please email hello@hanselwei.dev
 
 ## Inspiration
-  Recently I have found that I needed immunotherapy for my allergies (Allergy Shots) and have finished treatment and gotten a lot better. 
+  Recently I have found that I needed immunotherapy for my allergies (Allergy Shots), have finished treatment, and gotten a lot better. 
   After going the process I really wanted a way to keep track of my shots and foods I have been eating and see how they coorelate.
   The current apps available doesn't do a great job in user experience.
   Finding the allergy menu at restaurants is annoying.
