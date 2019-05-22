@@ -1,3 +1,5 @@
+<img src="allergyscribe-logo.png" data-canonical-src="allergyscribe-logo.png" width="200" height="200"/>
+
 # AllergyScribe-iOS
 Intuitive Open Source Maintained iOS App to Track Allergies and Allergy Shots built with Firebase &amp; Swift.
 
